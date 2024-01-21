@@ -2,14 +2,14 @@
 ## 🔨 I've been working on:
 
 <details>
-<summary><strong>❔lynnetteeee</strong></summary>
+<summary><strong>⭐lynnetteeee</strong></summary>
 Link to repo: https://github.com/lynnetteeee/lynnetteeee
 <br/>
-This repository contains a collection of markdown files that provide a detailed guide on different programming concepts and technologies. Each file is well-explained and includes examples and code snippets to help developers understand and implement various programming practices efficiently.
+This repository contains a comprehensive readme file that provides an overview of the project and its purpose. It serves as a professional introduction to the repository and presents a concise summary, capturing the essence of the project in 20 to 50 words.
 
 ---
 
-Several updates were made to the README.md file, including formatting improvements, bold headers, and minor text changes. The gitignore file was modified to include wordcloud, and GitHub actions were integrated for wordcloud generation.
+This repository includes various commits such as updating the README file, fixing bugs, improving formatting, integrating GitHub actions, and making minor text changes. It also includes the addition of a word cloud output file and the use of cron scheduling for testing.
 </details>
 
 
