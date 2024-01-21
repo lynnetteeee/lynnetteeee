@@ -2,14 +2,14 @@
 ## 🔨 I've been working on:
 
 <details>
-<summary>🌟lynnetteeee</summary>
+<summary><strong>⭐lynnetteeee</strong></summary>
 Link to repo: https://github.com/lynnetteeee/lynnetteeee
-
-This repository contains a comprehensive guide for using the Github API. It provides step-by-step instructions and code examples for various tasks such as creating repositories, managing issues, and collaborating with other users. Whether you are a beginner or an experienced developer, this guide will help you make the most out of the Github API.
+<br/>
+This repository contains a readme file for a GitHub repository. It provides a summary of what the repository does in a professional manner, with a paragraph of 20 to 50 words.
 
 ---
 
-The git commits in the "lynnetteeee" repository mainly involve updating the README.md file, improving prompts, adding additional sections to the readme, and fixing bugs. Some commits also involve testing and configuring environment variables for a word cloud feature.
+In the lynnetteeee repository, there were multiple commits to auto-update the README.md file, fix an emoji bug, improve markdown formatting, change image links, update markdown.ts, update the README.md file, revert the gitignore, create bold headers, add a gitignore for wordcloud, update the README_BACKUP.md file, make minor text changes, and integrate GitHub actions for wordcloud.
 </details>
 
 
