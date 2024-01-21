@@ -1,5 +1,5 @@
 
-## Contributions in the past 3 months
+## 🔨 I've been working on:
 
 <details>
 <summary>🌟lynnetteeee</summary>
@@ -13,4 +13,10 @@ The git commits in the "lynnetteeee" repository mainly involve updating the READ
 </details>
 
 
-This README was automatically generated using [coolprofiles](https://github.com/lshaoqin/coolprofiles)!
+![Image Alt Text](https://github.com/lynnetteeee/lynnetteeee/blob/main/out.jpg)
+
+<br>
+
+<p align="center">
+📢 <strong>This README was automatically generated using <a href="https://github.com/lshaoqin/coolprofiles">coolprofiles</a>!</strong>
+</p>

@@ -1,9 +1,9 @@
 export function generateDropdown(title: string, readmeSummary: string, commitsSummary: string, url: string) {
     return `
 <details>
-<summary>${title}</summary>
+<summary><strong>${title}</strong></summary>
 Link to repo: ${url}
-
+<br/>
 ${readmeSummary}
 
 ---
@@ -23,9 +23,15 @@ export function generateDropdowns(entries: { [name: string]: string }) {
 
 export function generateMarkdown(contributions: string) {
     return `
-## Contributions in the past 3 months
+## 🔨 I've been working on:
 ${contributions}
 
-This README was automatically generated using [coolprofiles](https://github.com/lshaoqin/coolprofiles)!
+![Image Alt Text](https://github.com/${process.env.GH_USER}/${process.env.GH_USER}/blob/main/out.jpg)
+
+<br>
+
+<p align="center">
+📢 <strong>This README was automatically generated using <a href="https://github.com/lshaoqin/coolprofiles">coolprofiles</a>!</strong>
+</p>
 `;
 }
