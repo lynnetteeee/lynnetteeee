@@ -43,24 +43,3 @@ This repository contains a collection of code and resources related to a specifi
 ---
 
 The "TodoApp" repository underwent a series of updates including refactoring todo item management, integrating frontend with the server, improving delete functionality, and enhancing method comments to enhance clarity and efficiency throughout the application. The project transitioned from local state management to centralized global state management to address prop-drilling issues and warning messages, ensuring a more scalable and efficient structure. Additionally, updates were made to Id generation, navigation, and UI elements to improve user experience and functionality.
-</details>
-
-<details>
-<summary><strong>⭐ped</strong></summary>
-Link to repo: https://github.com/lynnetteeee/ped
-<br/>
-This repository contains a detailed guide and documentation for a project, providing information on its purpose, functionality, installation instructions, and usage guidelines.
-
----
-
-The "ped" repository contains multiple file uploads in its commits, implying a series of additions or changes made to the repository's content.
-</details>
-
-
-![Image Alt Text](https://github.com/lynnetteeee/lynnetteeee/blob/main/out.jpg)
-
-<br>
-
-<p align="center">
-📢 <strong>This README was automatically generated using <a href="https://github.com/lshaoqin/coolprofiles">coolprofiles</a>!</strong>
-</p>
