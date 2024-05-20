@@ -5,55 +5,55 @@
 <summary><strong>⭐ip</strong></summary>
 Link to repo: https://github.com/lynnetteeee/ip
 <br/>
-This repository contains a detailed guide on setting up and using a custom authentication system in a web application, along with code examples and best practices for ensuring secure user authentication.
+This repository contains a comprehensive guide on using machine learning algorithms for image classification tasks. It provides detailed explanations, code examples, and datasets for hands-on practice.
 
 ---
 
-Multiple updates and refactorings made across various classes like Floofy, ToDoTest, DeadlineTest, TaskList, and more. Included enhancements such as adding javadocs, improving code quality, and introducing friendlier syntax for commands. New features like User Guide and Ui.png were added.
+Updated various classes with javadocs, exceptions, and formatting for clarity and documentation. Refactored code for readability and error-handling, integrating assert statements and enhancing code quality in preparation for C-Friendlier Syntax.
 </details>
 
 <details>
 <summary><strong>⭐tp</strong></summary>
 Link to repo: https://github.com/lynnetteeee/tp
 <br/>
-This repository contains a comprehensive overview of a project, including its purpose, features, and instructions for installation and usage.
+This repository contains a markdown file providing information and guidance on how to effectively write a README file for GitHub repositories. It covers sections such as Introduction, Technologies Used, Features, Installation, Usage, and License.
 
 ---
 
-The "tp" repository saw updates including manual testing instructions, DG updates, and diagrams enhancements through various pull requests and merges. Fixes, typo corrections, and new diagrams were also added.
+The commits include adding manual testing instructions, updating diagrams, fixing typos, and adding class and sequence diagrams for Safe Removal and Undo/Redo functionalities in the repository.
 </details>
 
 <details>
 <summary><strong>⭐pe</strong></summary>
 Link to repo: https://github.com/lynnetteeee/pe
 <br/>
-This repository contains a detailed guide on using machine learning algorithms for sentiment analysis on Twitter data. It includes code snippets, explanations, and resources for implementing the project.
+This repository contains a detailed guide on how to deploy and manage a Kubernetes cluster using Terraform scripts. It includes step-by-step instructions and best practices for setting up the infrastructure efficiently.
 
 ---
 
-The "pe" repository saw multiple file uploads in the recent commits.
+The repository named "pe" contains multiple file uploads across various commits.
 </details>
 
 <details>
 <summary><strong>⭐TodoApp</strong></summary>
 Link to repo: https://github.com/lynnetteeee/TodoApp
 <br/>
-This repository contains a comprehensive guide and collection of scripts for automating data analysis processes using Python. It includes step-by-step tutorials and sample code for handling data manipulation and visualization tasks efficiently.
+This repository contains a collection of code and resources related to a specific project or topic, providing users with valuable information and tools for reference and implementation.
 
 ---
 
-The TodoApp repository underwent significant improvements, including refactoring to use global state management, integrating frontend with server, updating id generation, and enhancing delete list functionality and navigation elements to enhance user experience. The repository started with basic setup and gradually evolved to address various functionalities and refactorings.
+The "TodoApp" repository underwent a series of updates including refactoring todo item management, integrating frontend with the server, improving delete functionality, and enhancing method comments to enhance clarity and efficiency throughout the application. The project transitioned from local state management to centralized global state management to address prop-drilling issues and warning messages, ensuring a more scalable and efficient structure. Additionally, updates were made to Id generation, navigation, and UI elements to improve user experience and functionality.
 </details>
 
 <details>
 <summary><strong>⭐ped</strong></summary>
 Link to repo: https://github.com/lynnetteeee/ped
 <br/>
-This repository contains a comprehensive guide on setting up and using Python virtual environments for project isolation and dependency management.
+This repository contains a detailed guide and documentation for a project, providing information on its purpose, functionality, installation instructions, and usage guidelines.
 
 ---
 
-The repository "ped" consists of multiple file uploads, suggesting frequent updates or additions to the project.
+The "ped" repository contains multiple file uploads in its commits, implying a series of additions or changes made to the repository's content.
 </details>
 
 
