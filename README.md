@@ -5,55 +5,55 @@
 <summary><strong>⭐ip</strong></summary>
 Link to repo: https://github.com/lynnetteeee/ip
 <br/>
-This repository contains a comprehensive guide and documentation for developers on how to effectively use a specific software tool or technology.
+This repository contains a collection of scripts and resources for data analysis and visualization using Python. It includes examples of various data manipulation techniques and visualization libraries such as Pandas, Matplotlib, and Seaborn.
 
 ---
 
-Various updates and refactorings across different classes, including adding javadocs, improving error handling, refactoring methods in Floofy and Parser, and enhancing readability for future command extensions.Assertions and code quality improvements were also made.
+Updated repository with javadocs, exception handling, code refactoring, UI formatting, and user guide improvements to enhance code quality and prepare for friendlier command syntax implementation.
 </details>
 
 <details>
 <summary><strong>⭐tp</strong></summary>
 Link to repo: https://github.com/lynnetteeee/tp
 <br/>
-This repository contains a detailed description of a project or codebase including its purpose, features, and installation guidelines, providing a comprehensive overview for developers and users.
+This repository contains a markdown file detailing the steps to set up a personal website using HTML and CSS. It provides a beginner-friendly guide for creating a basic website structure.
 
 ---
 
-Several manual testing instructions added and updated in the DG, including Safe Removal and Undo/Redo. Diagrams and class diagrams were included along with typo fixes. Planned enhancements and acknowledgements were also made.
+Implemented manual testing instructions for Safe Removal, Undo/Redo, and DG updates in the tp repository. Includes diagram enhancements and typo fixes.
 </details>
 
 <details>
 <summary><strong>⭐pe</strong></summary>
 Link to repo: https://github.com/lynnetteeee/pe
 <br/>
-This repository contains a collection of scripts and tools for data processing and analysis, aimed to streamline and automate various tasks related to data manipulation and visualization.
+This repository contains a detailed guide and code samples for implementing machine learning algorithms in Python for data analysis purposes. It provides a structured approach for beginners to learn and apply machine learning techniques efficiently.
 
 ---
 
-Multiple files have been uploaded to the 'pe' repository in a series of commit updates.
+The repository "pe" has multiple commits of file uploads, indicating continuous additions or modifications to the project files.
 </details>
 
 <details>
 <summary><strong>⭐TodoApp</strong></summary>
 Link to repo: https://github.com/lynnetteeee/TodoApp
 <br/>
-This repository contains a comprehensive guide for setting up and utilizing a chatbot using Python and natural language processing techniques. It includes detailed instructions for implementation and customization.
+This repository contains a comprehensive guide and code samples for implementing machine learning algorithms in Python for data analysis and prediction tasks.
 
 ---
 
-The TodoApp repository underwent numerous improvements, including changing id generation to random, enhancing delete features, integrating frontend with Axios, utilizing TodoContext for task management, and updating navigation functionalities. Additionally, refactorings were made to address prop-drilling issues and ensure data consistency within the application.
+The TodoApp repository went through various updates including improving delete features, utilizing global state management, and enhancing UI elements for better functionality and navigation. NativeEventEmitter was tested unsuccessfully.
 </details>
 
 <details>
 <summary><strong>⭐ped</strong></summary>
 Link to repo: https://github.com/lynnetteeee/ped
 <br/>
-This repository contains a collection of code and resources related to data analysis and visualization techniques, aimed at providing insights into various datasets.
+This repository contains a comprehensive guide on using various data science techniques and algorithms in Python for predictive modeling and analysis.
 
 ---
 
-The 'ped' repository experienced multiple file uploads in various commits.
+The repository "ped" experienced multiple file uploads in a series of commits.
 </details>
 
 
