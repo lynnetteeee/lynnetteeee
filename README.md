@@ -2,58 +2,58 @@
 ## 🔨 I've been working on:
 
 <details>
-<summary><strong>⭐ip</strong></summary>
-Link to repo: https://github.com/lynnetteeee/ip
-<br/>
-This repository contains a collection of scripts and resources for data analysis and visualization using Python. It includes examples of various data manipulation techniques and visualization libraries such as Pandas, Matplotlib, and Seaborn.
-
----
-
-Updated repository with javadocs, exception handling, code refactoring, UI formatting, and user guide improvements to enhance code quality and prepare for friendlier command syntax implementation.
-</details>
-
-<details>
 <summary><strong>⭐tp</strong></summary>
 Link to repo: https://github.com/lynnetteeee/tp
 <br/>
-This repository contains a markdown file detailing the steps to set up a personal website using HTML and CSS. It provides a beginner-friendly guide for creating a basic website structure.
+This repository contains a detailed guide on setting up and using a web application for project management. It includes instructions on installation, configuration, and features offered by the application.
 
 ---
 
-Implemented manual testing instructions for Safe Removal, Undo/Redo, and DG updates in the tp repository. Includes diagram enhancements and typo fixes.
+The repository saw updates including manual testing instructions, typo fixes, diagrams enhancement, and updates in DG. Acknowledgements and branch merges were also noted.
 </details>
 
 <details>
 <summary><strong>⭐pe</strong></summary>
 Link to repo: https://github.com/lynnetteeee/pe
 <br/>
-This repository contains a detailed guide and code samples for implementing machine learning algorithms in Python for data analysis purposes. It provides a structured approach for beginners to learn and apply machine learning techniques efficiently.
+This repository contains a detailed explanation of the project, including its purpose, features, installation instructions, and usage guidelines. It serves as a comprehensive guide for users interested in understanding and implementing the project.
 
 ---
 
-The repository "pe" has multiple commits of file uploads, indicating continuous additions or modifications to the project files.
+The "pe" repository saw multiple file uploads in the commits, indicating a large-scale inclusion of files.
 </details>
 
 <details>
 <summary><strong>⭐TodoApp</strong></summary>
 Link to repo: https://github.com/lynnetteeee/TodoApp
 <br/>
-This repository contains a comprehensive guide and code samples for implementing machine learning algorithms in Python for data analysis and prediction tasks.
+This repository contains a detailed guide and resources for a particular project or topic, aiming to provide clear instructions and support for users.
 
 ---
 
-The TodoApp repository went through various updates including improving delete features, utilizing global state management, and enhancing UI elements for better functionality and navigation. NativeEventEmitter was tested unsuccessfully.
+The TodoApp repository saw updates like refining Id generation, refining deleteList functionality, integrating frontend with server, and refactoring state management to avoid prop-drilling and coupling issues. Fixes and UI enhancements were also made, alongside initial project setup on Android Studio.
 </details>
 
 <details>
 <summary><strong>⭐ped</strong></summary>
 Link to repo: https://github.com/lynnetteeee/ped
 <br/>
-This repository contains a comprehensive guide on using various data science techniques and algorithms in Python for predictive modeling and analysis.
+This repository contains a detailed guide on how to use various machine learning algorithms for data analysis and predictive modeling. It consists of code examples and explanations to help users understand and implement machine learning techniques effectively.
 
 ---
 
-The repository "ped" experienced multiple file uploads in a series of commits.
+The "ped" repository has multiple commits with files uploaded, reflecting a series of ongoing changes or additions to the project.
+</details>
+
+<details>
+<summary><strong>⭐lynnetteeee</strong></summary>
+Link to repo: https://github.com/lynnetteeee/lynnetteeee
+<br/>
+This repository contains a detailed guide on setting up and configuring a web server using Nginx, as well as instructions on deploying a Flask application. It provides step-by-step tutorials and configuration files for easy implementation.
+
+---
+
+The repository `lynnetteeee` saw multiple updates to its README.md file through automated processes and manual modifications.
 </details>
 
 
