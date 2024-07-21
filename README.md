@@ -2,58 +2,36 @@
 ## 🔨 I've been working on:
 
 <details>
-<summary><strong>⭐tp</strong></summary>
-Link to repo: https://github.com/lynnetteeee/tp
-<br/>
-This repository contains a detailed guide on setting up and using a web application for project management. It includes instructions on installation, configuration, and features offered by the application.
-
----
-
-The repository saw updates including manual testing instructions, typo fixes, diagrams enhancement, and updates in DG. Acknowledgements and branch merges were also noted.
-</details>
-
-<details>
-<summary><strong>⭐pe</strong></summary>
-Link to repo: https://github.com/lynnetteeee/pe
-<br/>
-This repository contains a detailed explanation of the project, including its purpose, features, installation instructions, and usage guidelines. It serves as a comprehensive guide for users interested in understanding and implementing the project.
-
----
-
-The "pe" repository saw multiple file uploads in the commits, indicating a large-scale inclusion of files.
-</details>
-
-<details>
 <summary><strong>⭐TodoApp</strong></summary>
 Link to repo: https://github.com/lynnetteeee/TodoApp
 <br/>
-This repository contains a detailed guide and resources for a particular project or topic, aiming to provide clear instructions and support for users.
+This repository contains a comprehensive guide to setting up and using a popular software tool. It includes installation instructions, usage guidelines, and troubleshooting tips for seamless implementation.
 
 ---
 
-The TodoApp repository saw updates like refining Id generation, refining deleteList functionality, integrating frontend with server, and refactoring state management to avoid prop-drilling and coupling issues. Fixes and UI enhancements were also made, alongside initial project setup on Android Studio.
-</details>
-
-<details>
-<summary><strong>⭐ped</strong></summary>
-Link to repo: https://github.com/lynnetteeee/ped
-<br/>
-This repository contains a detailed guide on how to use various machine learning algorithms for data analysis and predictive modeling. It consists of code examples and explanations to help users understand and implement machine learning techniques effectively.
-
----
-
-The "ped" repository has multiple commits with files uploaded, reflecting a series of ongoing changes or additions to the project.
+The TodoApp repository saw various improvements and refinements such as updating Id generation, integrating frontend with server, and implementing global state management for tasks. Tasks updating was refactored to avoid prop-drilling and high coupling with prop types. NativeEventEmitter was attempted but unsuccessful. Other updates include enhancing delete list feature, improving method comments, and fixing navigation functionalities for TodoScreen. New features like task addition, list creation, and navigation were also added, along with visual enhancements like button styling and shadow effects.
 </details>
 
 <details>
 <summary><strong>⭐lynnetteeee</strong></summary>
 Link to repo: https://github.com/lynnetteeee/lynnetteeee
 <br/>
-This repository contains a detailed guide on setting up and configuring a web server using Nginx, as well as instructions on deploying a Flask application. It provides step-by-step tutorials and configuration files for easy implementation.
+This repository contains a detailed guide on using a particular technology or tool, including installation instructions, usage examples, and troubleshooting tips.
 
 ---
 
-The repository `lynnetteeee` saw multiple updates to its README.md file through automated processes and manual modifications.
+Multiple auto-updates and manual updates to the README.md file were made in the lynnetteeee repository.
+</details>
+
+<details>
+<summary><strong>⭐pe</strong></summary>
+Link to repo: https://github.com/lynnetteeee/pe
+<br/>
+This repository contains a comprehensive guide on using advanced machine learning techniques for predictive modeling in Python, with a focus on deep learning algorithms and neural networks. It includes code examples and detailed explanations for implementation.
+
+---
+
+The "pe" repository saw multiple file uploads in the recent commits.
 </details>
 
 
