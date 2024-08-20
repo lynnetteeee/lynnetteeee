@@ -22,7 +22,7 @@ The TodoApp repository saw various improvements and refinements such as updating
 Link to repo: https://github.com/lynnetteeee/lynnetteeee
   
 <br/>
-An automated GitHub profile generator made with a group of friends that creates a **personalised* README for your recent contributions, and is scheduled to update every month! It also automatically generates a wordcloud that you can include! 
+An automated GitHub profile generator made with a group of friends that creates a **personalised** README for your recent contributions, and is scheduled to update every month! It also automatically generates a wordcloud that you can include! 
 
 In fact, the README you're seeing now is built on top of the monthly update! Installation instructions are in the main repo linked below :) 
 
